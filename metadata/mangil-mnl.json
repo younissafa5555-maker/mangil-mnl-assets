@@ -1,0 +1,7 @@
+{
+    "name":  "MANGIL",
+    "symbol":  "MNL",
+    "description":  "MANGIL (MNL) is a TON jetton for transfers and DeFi participation. The planned initial issuance is 129,900,000 MNL, followed by permanent closure of minting. An optional admin-activated 167-hour transfer restriction for the designated DeDust vault jetton wallet is defined by the contract.",
+    "image":  "https://raw.githubusercontent.com/younissafa5555-maker/mangil-mnl-assets/main/metadata/mangil-mnl.jpg",
+    "decimals":  "9"
+}
